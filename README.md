@@ -1,7 +1,7 @@
 # stopWatch
 **An implementation of stop watch with HTML/CSS/ Vanilla JS**
 ## Preview
-[demo]()
+[demo](https://cv-stopwatch.netlify.app/)
 
 ## Getting Started
 Clone or download this repository and run with a local server of open `index.html` with your favorite browser
